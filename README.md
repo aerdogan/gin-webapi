@@ -1,7 +1,12 @@
 # gin-webapi
 
-![resim](https://user-images.githubusercontent.com/193318/121822786-9e29a200-cca9-11eb-89a7-0f80c595dcdc.png)
+Kullanılan teknolojiler: <br/>
+<br/>
+Gin Framework<br/>
+gzip compress<br/>
+Mongodb<br/>
+
+![resim](https://user-images.githubusercontent.com/193318/122623400-95b7d980-d0a4-11eb-9a42-fd3feb81e3f8.png)
 
 
-![resim](https://user-images.githubusercontent.com/193318/121822790-abdf2780-cca9-11eb-9339-998214966ce5.png)
-
+![resim](https://user-images.githubusercontent.com/193318/122623459-cc8def80-d0a4-11eb-8229-f49751e96977.png)
